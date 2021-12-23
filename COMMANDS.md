@@ -4,9 +4,12 @@
 `Meta` commands are ones that don't show up as items/Pokemon, along with various constants
 
 ### `Meta.SetMode`
-Sets mode to one of the following
+Sets mode to one of the following:
+
 `item`
+
 `pkmn`
+
 `raw`
 
 ### `Meta.ShinySpread`
