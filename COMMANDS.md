@@ -1,5 +1,7 @@
 # Commands and Syntax for Nihilego
 
+# Unimplemented
+
 ## `Meta`
 `Meta` commands are ones that don't show up as items/Pokemon, along with various constants
 
